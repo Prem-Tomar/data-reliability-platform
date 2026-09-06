@@ -6,4 +6,4 @@ Service changes must preserve ownership boundaries and include relevant unit, in
 
 ## Branch and review workflow
 
-Create a task branch and open a pull request into master. All changes to master go through PR merges. Never force-push published work; use corrective commits. Only the human owner, Prem-Tomar, has a force-push exception. Agents must not use it, even through the owner's credentials. See AGENTS.md for the persistent agent policy.
+Create a task branch and open a pull request into master. All changes to master go through PR merges. Never force-push published work; use corrective commits. Only the human owner, Prem-Tomar, has a force-push exception. Agents must not use it, even through the owner's credentials.
