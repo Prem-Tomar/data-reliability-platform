@@ -1,0 +1,24 @@
+# Environments and generated artifacts
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.env.*
+!.env.example
+customer-data/
+secrets/
+*.pem
+*.key
+*.log
+.DS_Store
+Thumbs.db
+
+# Inherited local reference material is not part of the public repository.
+references/original/
+tracking/concepts.json
+learning/*.md
+!learning/README.md
+!learning/FIRST_28_DAYS.md
+!learning/PRODUCT_WORK_PACKAGES.md
