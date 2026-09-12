@@ -22,3 +22,7 @@ learning/*.md
 !learning/README.md
 !learning/FIRST_28_DAYS.md
 !learning/PRODUCT_WORK_PACKAGES.md
+
+# Agent instructions stay local.
+AGENTS.md
+agents.md
